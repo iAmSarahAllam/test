@@ -1,0 +1,1 @@
+print("multiplying 3x3 yields: ", 3*3)
